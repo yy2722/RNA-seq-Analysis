@@ -11,3 +11,5 @@ https://zhanglab.c2b2.columbia.edu/index.php/Quantas_Documentation
 6. DS - differential splicing
 7. DE_plot - plot DE data (volcano + GO analysis)
 8. DS_plot - plot DS data (volcano + GO analysis)
+9. Expr_PCA_heatmap - plot PCA + heatmap for expr data
+10. Splc_PCA_heatmap - plot PCA + heatmap for splc data
